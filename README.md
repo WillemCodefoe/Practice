@@ -3,7 +3,7 @@
 
 # First step: u need to install git bash and create repo
 
-## useful command for gitbash:
+## _useful command for gitbash_:
 ```
 git init #initialise your repo
 cd /file_name/  # go to file_name
@@ -27,7 +27,7 @@ git status     		   # check if everything is ok
 
 # Fourth step: connect your local repo to online one copy
 
-## you can do this by writing 
+## _you can do this by writing_ 
 ```
 git remote add origin _link in your github copy_
 git remote -v # here you check if you did everything right
@@ -42,8 +42,8 @@ git push # now you need to use only this command
 git log  # check if everything is ok
 ``` 
 
-6th step: create README.md file and edit it
-## write there everything that other people should know about your project
+# 6th step: create README.md file and edit it
+## _write there everything that other people should know about your project_
 -----
 
 **Actually that's it**
