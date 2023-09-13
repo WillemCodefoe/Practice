@@ -1,48 +1,49 @@
 **Getting started with Git**
 =====
 
-_First step: u need to install git bash and create repo_
+First step: u need to install git bash and create repo
 
-## useful command for gitbash:
+## _useful command for gitbash_:
 ```
 git init #initialise your repo
-cd /file_name/ # go to file_name
+cd /file_name/  # go to file_name
 touch file_name # create file
-mkdir dir_name # create directory
-pwd # show you current dir  (?root?)
+mkdir dir_name  # create directory
+pwd             # show you current dir  (?root?)
 
 git add -all 
-#or			to add changed files in your repo
+#or	          to add changed files in your repo
 git add .
 
 git commit -m 'patch-note' # update your files
-git status # check if everything is ok
+git status     		   # check if everything is ok
 ```
 
-_Second step: sign in GitHub.com_
+Second step: sign in GitHub.com
 
 
-_Third step: set up SSH or RSA key_
+Third step: set up SSH or RSA key
 
 
-_Fourth step: connect your local repo to online one copy_
+Fourth step: connect your local repo to online one copy
 
-## you can do this by writing 
+## _you can do this by writing_ 
 ```
 git remote add origin _link in your github copy_
 git remote -v # here you check if you did everything right
 ```
 
-_Fifth step: push your local files to GitHub:_
+Fifth step: push your local files to GitHub:
 ``` 
 git push -u origin main # or master instead of main
 # use this command only for the 1st time
 
 git push # now you need to use only this command
-git log # check if everything is ok
+git log  # check if everything is ok
 ``` 
 
-_6th step: create README.md file and edit it_
-## write there everything that other people should know about your project
+6th step: create README.md file and edit it
+## _write there everything that other people should know about your project_
 -----
+
 **Actually that's it**
