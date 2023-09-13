@@ -1,7 +1,7 @@
 **Getting started with Git**
 =====
 
-First step: u need to install git bash and create repo
+# First step: u need to install git bash and create repo
 
 ## useful command for gitbash:
 ```
@@ -19,13 +19,13 @@ git commit -m 'patch-note' # update your files
 git status     		   # check if everything is ok
 ```
 
-Second step: sign in GitHub.com
+# Second step: sign in GitHub.com
 
 
-Third step: set up SSH or RSA key
+# Third step: set up SSH or RSA key
 
 
-Fourth step: connect your local repo to online one copy
+# Fourth step: connect your local repo to online one copy
 
 ## you can do this by writing 
 ```
@@ -33,7 +33,7 @@ git remote add origin _link in your github copy_
 git remote -v # here you check if you did everything right
 ```
 
-Fifth step: push your local files to GitHub:
+# Fifth step: push your local files to GitHub:
 ``` 
 git push -u origin main # or master instead of main
 # use this command only for the 1st time
