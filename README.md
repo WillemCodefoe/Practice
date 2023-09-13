@@ -1,4 +1,4 @@
-**Getting started with Git**
+# **Getting started with Git**
 =====
 
 # First step: u need to install git bash and create repo
