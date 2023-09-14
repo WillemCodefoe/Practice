@@ -51,4 +51,8 @@ git log --oneline
 
 # **Part 2: main info**
 
-## _1. HASH - special number for every commit
+## _1. HASH - special number for every commit_
+
+## _2. git log - can show information about commits (staged, unstaged , tracked, untracked, modified)_
+
+
