@@ -55,4 +55,6 @@ git log --oneline
 
 ## _2. git log - can show information about commits (staged, unstaged , tracked, untracked, modified)_
 
+## _3. HEAD - file on your computer that contains link to latest commit' HASH_
+
 
