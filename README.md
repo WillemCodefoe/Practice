@@ -59,4 +59,10 @@ git log --oneline
 
 ## _4. git status - (staged, unstaged , tracked, untracked, modified)_
 
-## _5. 
+## _5. commit messages (CM)- CM's should be informative and short. There are some rules for it, like:_
+---
+GitHub rule: mention #problem_number in your CM
+Jira: corporate rule with identificators
+[Convevntional commiting](https://www.conventionalcommits.org/ru/v1.0.0-beta.4/#%D1%81%D0%BF%D0%B5%D1%86%D0%B8%D1%84%D0%B8%D0%BA%D0%B0%D1%86%D0%B8%D1%8F)
+---
+## _
