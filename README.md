@@ -53,8 +53,10 @@ git log --oneline
 
 ## _1. HASH - special number for every commit_
 
-## _2. git log - can show information about commits (staged, unstaged , tracked, untracked, modified)_
+## _2. git log - can show information about commits_
 
 ## _3. HEAD - file on your computer that contains link to latest commit' HASH_
 
+## _4. git status - (staged, unstaged , tracked, untracked, modified)_
 
+## _5. 
