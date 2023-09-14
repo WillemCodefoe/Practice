@@ -51,4 +51,4 @@ git log --oneline
 
 # **Part 2: main info**
 
-# 
+## _1. HASH - special number for every commit
