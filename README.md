@@ -1,11 +1,13 @@
 # **Getting started with Git**
 -----
+# ** Part 1: GIT Set-up**
+
 
 # •First step: u need to install git bash and create repo
 
 ## _useful command for gitbash_:
 ```
-git init #initialise your repo
+git init 	#initialise your repo
 cd /file_name/  # go to file_name
 touch file_name # create file
 mkdir dir_name  # create directory
@@ -40,10 +42,13 @@ git push -u origin main # or master instead of main
 
 git push # now you need to use only this command
 git log  # check if everything is ok
+git log --oneline
 ``` 
 
 # •6th step: create README.md file and edit it
 ## _write there everything that other people should know about your project_
 -----
 
-**Actually that's it**
+# **Part 2: main info**
+
+# 
