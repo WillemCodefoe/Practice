@@ -76,3 +76,9 @@ flowchart ID
 	B -- no -->E[sell your kidney];
 	E ----> D;
 ```
+-----
+# _some useful links:_
+##[Fonts](https://github.com/brabadu/awesome-fonts#readme)
+##[Public speaking](https://github.com/matteofigus/awesome-speaking#readme)
+##[Distant job](https://github.com/matteofigus/awesome-speaking#readme)
+-----
